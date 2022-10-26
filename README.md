@@ -2,11 +2,11 @@
 
 ## Descrição do projeto
 
-Projeto realizado com meus colegas, Rodolfo Braga, Natalia Martins, Humberto Bonadiman, Elton Rodrigues, onde desenvolvemos um app de receitas, utilizando React Hooks e Context API, seguindo o método de pairprogramming.
+Projeto realizado com meus colegas, Rodolfo Braga, Natalia Martins, Humberto Bonadiman, Elton Rodrigues, onde desenvolvemos um app de receitas utilizando React Hooks e Context API, seguindo o método de pair programming.
 
-É possível ver,buscar, filtrar, favoritar e acompanhar o processo de preparação de receitas e drinks.
+É possível ver, buscar, filtrar, favoritar e acompanhar o processo de preparação de receitas e drinks.
 
-A base de dadossão duas APIs diferentes, uma para comidas e outra para bebidas.
+A base de dados são duas APIs diferentes, uma para comidas e outra para bebidas.
 
 O layout foi criado pensado em dispositivos móveis.
 
@@ -14,12 +14,12 @@ O layout foi criado pensado em dispositivos móveis.
 
 ## Instalação do projeto localmente
 
-1. Abra o terminal e crie um diretório no local de sua preferênciautilizando o comando "mkdir":
+1. Abra o terminal e crie um diretório no local de sua preferência utilizando o comando "mkdir":
 ```
   mkdir projeto-app
 ```
 
-2. Acesse o diretório recem criado e em seguida faça o clone do projeto:
+2. Acesse o diretório recém criado e em seguida faça o clone do projeto:
 ```
   cd projeto-app
   git clone git@github.com:Vitorlima02/Project-recipes-app.git
@@ -31,7 +31,7 @@ O layout foi criado pensado em dispositivos móveis.
   npm install
 ```
 
-4. Por último, execute o comando "npm start" dessa forma vai abrir automaticamente uma pagina no seu browser.
+4. Por último, execute o comando "npm start" dessa forma vai abrir automaticamente uma página no seu browser.
 ```
   npm start
 ```
